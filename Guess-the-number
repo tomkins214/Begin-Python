@@ -25,7 +25,7 @@ while totalGuesses < 6:
       
   if guess == number:
         totalGuesses= str(totalGuesses)
-        print("Great!You guessed the number in" + totalGuesses + "guesses!")
+        print("Great!You guessed the number!")
   
   if guess != number:
         number= str(number)
