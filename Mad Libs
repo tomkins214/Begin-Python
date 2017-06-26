@@ -1,0 +1,9 @@
+adjective1= raw_input("Type an adjective and click enter.")
+noun1= raw_input("Type a plural noun and click enter.")
+noun2=raw_input("Type a different noun and click enter.")
+adjective2= raw_input("Type a second adjective and click enter")
+
+print "This code is " + adjective1
+print noun1 + " are funky"
+print noun2 + " is " + adjective2
+print "Isn't this great?"
